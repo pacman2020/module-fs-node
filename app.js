@@ -1,3 +1,4 @@
-import { created_file } from './modulo.js'
+import { created_file, get_file } from './modulo.js'
 
-// created_file()
+// created_file('./teste.txt')
+// get_file('./teste.txt')
